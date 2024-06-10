@@ -1,2 +1,2 @@
 # testrepo
-This is my first DataLab repository 
+This is my first git respository.
